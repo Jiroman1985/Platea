@@ -81,7 +81,7 @@ const Header = () => {
             <div class="absolute z-10 hidden bg-grey-200 group-hover:block">
           
              <div class="px-8 pt-2 pb-4 bg-white bg-grey-200 shadow-lg">
-            <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
+            <div class="grid grid-cols-1 gap-4 md:grid-cols-2"> 
            
             <div className={style.headerItems}>
             <Link href ="/topies/0x79BcC9822ee96f3Df0b184CA81694db0c0AdAC56">
